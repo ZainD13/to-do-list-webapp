@@ -1,0 +1,28 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+#title {
+    text-align: center;
+    margin-top: 2em
+}
+
+form {
+    /* border: 1px solid red; */ 
+    display: flex;
+    height: 2.5em;
+    width: 60%;
+    margin: 0 auto;
+}
+
+#textbox {
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 1.5em;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.5em;
+}
